@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Aug 2020 18:44:06 at https://www.softwaresuggest.com/compare/toppr-vs-byjus https://www.softwaresuggest.com/compare/byjus-vs-unacademy https://www.softwaresuggest.com/compare/toppr-vs-unacademy https://www.softwaresuggest.com/compare/toppr-vs-cuemath https://www.softwaresuggest.com/compare/byjus-vs-cuemath +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.softwaresuggest.com/compare/toppr-vs-byjus https://www.softwaresuggest.com/compare/byjus-vs-unacademy https://www.softwaresuggest.com/compare/toppr-vs-unacademy https://www.softwaresuggest.com/compare/toppr-vs-cuemath https://www.softwaresuggest.com/compare/byjus-vs-cuemath -O1 "D:\SMART EDU\smart_byjus" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/1504587688_toppr-home.png (from https://www.softwaresuggest.com/compare/toppr-vs-byjus)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/1504591080_BYJUS-home.png (from https://www.softwaresuggest.com/compare/toppr-vs-byjus)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/1494407802_Advanced Applicant Tracking.png (from https://www.softwaresuggest.com/compare/toppr-vs-byjus)
+18:45:08	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.softwaresuggest.com/compare/toppr-vs-byjus)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/1580453387_parentsalarm_screenshot.png (from https://www.softwaresuggest.com/compare/toppr-vs-unacademy)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/1504612710_cuemath-home.png (from https://www.softwaresuggest.com/compare/toppr-vs-cuemath)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/fancybox_sprite.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/fancybox_loading.gif (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/blank.gif (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/fancybox_sprite@2x.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/fancybox_loading@2x.gif (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/animated-overlay.gif (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-bg_highlight-soft_75_cccccc_1x100.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-bg_glass_75_e6e6e6_1x400.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-bg_glass_75_dadada_1x400.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-bg_glass_65_ffffff_1x400.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-bg_glass_55_fbf9ee_1x400.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-bg_glass_95_fef1ec_1x400.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-icons_222222_256x240.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-icons_888888_256x240.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-icons_454545_256x240.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-icons_2e83ff_256x240.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-icons_cd0a0a_256x240.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/assets2/css/newcss/images/ui-bg_flat_0_aaaaaa_40x100.png (from https://www.softwaresuggest.com/assets2/css/newcss/other.css?v=0.91)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/zps-push (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/e (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/pslog.gif (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/szukaj.onet.pl (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/heatmapscript-3019d342aa_.js (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/funnel-analysis-20a2ff8b45_.js (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/sessionrecording-b236b6b57e_.js (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/framePageNew-01d072f094_.html (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/formanalytics-bc8a44d39d_.js (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/privacy-banner-3cdaa1d368_.js (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/poll-397f239d75_.js (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/pushnotify-c06ec892c9_.js (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/push-styles-1985883fb1_.css (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/push-conversion-frame-1d0e531e9a_.html (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/popup-tracker-53dc88348c_.js (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:08	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/szukaj.wp.pl (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+18:45:09	Error: 	"Not Found" (404) at link https://www.softwaresuggest.com/compare/popstate.ps (from https://cdn.pagesense.io/js/callhippo/00f94549c9564cebb1a1db0bd87cad52.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 3 seconds : 104 links scanned, 62 files written (5143767 bytes overall) [3223640 bytes received at 51168 bytes/sec], 3405499 bytes transferred using HTTP compression in 60 files, ratio 18%, 4.1 requests per connection
+(41 errors, 0 warnings, 0 messages)

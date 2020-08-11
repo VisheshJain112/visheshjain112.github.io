@@ -1,0 +1,28 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.softwaresuggest.com	TRUE	/	FALSE	1999999999	__cfduid	d0bbe3cf47461763a263482b8858ca6471596978848
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	PHPSESSID	8d6pcrr5stje62c2nb0pa7giq4
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	current_cat_id	144
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	144	7698%2C7712%2C1625
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	current_soft_id	7698%2C7712%2C1625
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	is_popup	1
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	remove_prod_soft	deleted
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	update_prod_soft	deleted
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	compare_software	deleted
+.softwaresuggest.com	TRUE	/	FALSE	1999999999	sspixel	MDktMDgtMjAyMA%3D%3D
+.softwaresuggest.com	TRUE	/	FALSE	1999999999	sspixelflag	0
+.softwaresuggest.com	TRUE	/	FALSE	1999999999	crntvisit	09-08-2020
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	is_geo_ip	1
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	user_ip	110.227.95.136
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	user_data_country	India
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	user_data_city	+
+www.softwaresuggest.com	TRUE	/	FALSE	1999999999	user_data_countrycode	IN
+.cloudflareinsights.com	TRUE	/	FALSE	1999999999	__cfduid	d22d090f0dd2184c9e2d6dc196be5e6ce1596978874
+static.cloudflareinsights.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+pagesense-collect.zoho.com	TRUE	/	FALSE	1999999999	0d269e8747	6df0307d2785e159f60f11e9139e6785
+pagesense-collect.zoho.com	TRUE	/	FALSE	1999999999	zfccn	6cd1d6ca-7603-44b3-926b-196da17532f6
+pagesense-collect.zoho.com	TRUE	/	FALSE	1999999999	_zcsr_tmp	6cd1d6ca-7603-44b3-926b-196da17532f6
+pagesense-collect.zoho.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+pagesense-collect.zoho.com	TRUE	/	FALSE	1999999999	priority	high
+
